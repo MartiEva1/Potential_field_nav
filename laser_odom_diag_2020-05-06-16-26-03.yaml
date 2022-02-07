@@ -1,0 +1,6 @@
+image:           caccola_laser_odom_diag_2020-05-06-16-26-03.pgm
+resolution:      0.05
+origin:          [ 0.0,  0.0, 0.0 ]
+occupied_thresh: 0.55
+free_thresh:     0.45
+negate:          0
